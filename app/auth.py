@@ -1,4 +1,4 @@
-# app/auth.py
+
 import os
 import secrets
 from fastapi import HTTPException, Security

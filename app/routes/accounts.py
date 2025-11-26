@@ -1,4 +1,4 @@
-# app/routes/accounts.py
+# 
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy import select, insert
 from sqlalchemy.ext.asyncio import AsyncSession

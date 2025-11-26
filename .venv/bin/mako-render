@@ -1,4 +1,4 @@
-#!/Users/cookiesncream/mockbank_api/.venv/bin/python3.12
+#!/Users/cookiesncream/mockbank_api/.venv/bin/python3.11
 import sys
 from mako.cmd import cmdline
 if __name__ == '__main__':
